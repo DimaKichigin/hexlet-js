@@ -1,0 +1,13 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+#  "entry": "/root/hexlet-js/hexlet-js/hexlet-hello-world"
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo trash code\""
+  },
+  "author": "DimaKichigin&Little_helper",
+  "license": "ISC"
+}
